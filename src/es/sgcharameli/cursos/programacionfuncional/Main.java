@@ -1,6 +1,7 @@
 package es.sgcharameli.cursos.programacionfuncional;
 
 import es.sgcharameli.cursos.programacionfuncional.optionals.OptionalPrueba;
+import es.sgcharameli.cursos.programacionfuncional.streams.StreamPrueba;
 
 public class Main {
 
@@ -10,6 +11,7 @@ public class Main {
 
 //        Lambda.main(args);
 //        ReferenciaMetodo.main(args);
-        OptionalPrueba.main(args);
+//        OptionalPrueba.main(args);
+        StreamPrueba.main(args);
     }
 }
